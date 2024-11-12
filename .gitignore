@@ -6,8 +6,8 @@ haddop-spark2023/
 haddop-spark2023/.idea
 haddop-spark2023/.vscode
 
+!hadoop-spark2024/data/.gitkeep
 hadoop-spark2024/data/datanode1
 hadoop-spark2024/data/datanode2
 hadoop-spark2024/data/datanode3
 hadoop-spark2024/data/namenode
-!hadoop-spark2024/data/.gitkeep
