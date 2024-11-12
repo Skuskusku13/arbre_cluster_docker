@@ -2,5 +2,11 @@ tp_arbre/.idea
 tp_arbre/.vscode
 tp_arbre/.venv
 
+haddop-spark2023/
 haddop-spark2023/.idea
 haddop-spark2023/.vscode
+
+hadoop-spark2024/data/datanode1
+hadoop-spark2024/data/datanode2
+hadoop-spark2024/data/datanode3
+hadoop-spark2024/data/namenode
